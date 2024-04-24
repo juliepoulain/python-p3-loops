@@ -7,8 +7,6 @@ def happy_new_year():
         i -= 1
     print("Happy New Year!")
 
-happy_new_year()
-
 def square_integers(int_list):
     return [int ** 2 for int in int_list]
 
